@@ -1,9 +1,9 @@
 ### Group 01 - Members:
-1.  Rafael Silva (example)
-2. 
-3. 
-4. 
-5. 
+1. Julia X. (juliagu808) / Xin (XinGclover) / Ivy (chichiglacierz)
+2. Isami (isamimitani)
+3. William (Wjelvin)
+4. Lovisa (lovisalybeck)
+5. Stevie (ordboy)/ Jesper (sjostromjesper) / Albin (albinkj91) / Philip (philipnorvik)
 6. 
 7. 
 8. 
@@ -16,7 +16,7 @@
 | 10.15-10.25 |               |
 | 10.30-10.40 |               |
 | 10.45-10.55 |               |
-| 11.00-11.10 |               |
+| 11.00-11.10 |  team 1       |
 | 11.15-11.25 |               |
 | 11.30-11.40 |               |
 | 11.45-11.55 |               |
