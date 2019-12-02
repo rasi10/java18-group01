@@ -4,9 +4,9 @@
 3. William (Wjelvin)
 4. Lovisa (lovisalybeck)
 5. Stevie (ordboy)/ Jesper (sjostromjesper) / Albin (albinkj91) / Philip (philipnorvik)
-6. Kenny Hoang (Flaakan ) / Johnny (keho1801)
-7. Jeppe90 (Jeppe90)
-8. Johan Johansson (johanone)
+6. Jeppe90 (Jeppe90)
+7. Johan Johansson (johanone)
+8.
 
 ### Schedule 4th december 2019 - 10.00-12.00
 
@@ -19,4 +19,4 @@
 | 11.00-11.10 |  Team 1       |
 | 11.15-11.25 |  Team 4       |
 | 11.30-11.40 |               |
-| 11.45-11.55 |   Team 7            |
+| 11.45-11.55 |   Team 6      |
