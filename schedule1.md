@@ -4,7 +4,7 @@
 3. William (Wjelvin)
 4. Lovisa (lovisalybeck)
 5. Stevie (ordboy)/ Jesper (sjostromjesper) / Albin (albinkj91) / Philip (philipnorvik)
-6. 
+6. Kenny Hoang (Flaakan ) / Johnny (keho1801)
 7. 
 8. 
 
