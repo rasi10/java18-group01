@@ -5,8 +5,8 @@
 4. Lovisa (lovisalybeck)
 5. Stevie (ordboy)/ Jesper (sjostromjesper) / Albin (albinkj91) / Philip (philipnorvik)
 6. Kenny Hoang (Flaakan ) / Johnny (keho1801)
-7. 
-8. 
+7. Jeppe90 (Jeppe90)
+8. Johan Johansson (johanone)
 
 ### Schedule 4th december 2019 - 10.00-12.00
 
