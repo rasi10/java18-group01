@@ -3,7 +3,7 @@
 2. Isami (isamimitani)
 3. William (Wjelvin)
 4. Lovisa (lovisalybeck)
-5. Stevie (ordboy)/ Jesper (sjostromjesper) / Albin (albinkj91) / Philip (philipnorvik)
+5. ketchup -- Stevie (ordboy)/ Jesper (sjostromjesper) / Albin (albinkj91) / Philip (philipnorvik)
 6. Johan Johansson (johanone)
 7.
 8.
@@ -12,7 +12,7 @@
 
 | Time        |  Student/Team | 
 |-------------|:-------------:|
-| 10.00-10.10 |               |
+| 10.00-10.10 |     ketchup   |
 | 10.15-10.25 |               |
 | 10.30-10.40 |   Isami       |
 | 10.45-10.55 | Julia，Xin，Ivy
