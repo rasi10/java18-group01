@@ -2,9 +2,9 @@
 1. Julia X. (juliagu808) / Xin (XinGclover) / Ivy (chichiglacierz)
 2. Isami (isamimitani)
 3. William (Wjelvin)
-4. Lovisa (lovisalybeck)
-5. ketchup -- Stevie (ordboy)/ Jesper (sjostromjesper) / Albin (albinkj91) / Philip (philipnorvik)
-6. Johan Johansson (johanone)
+4. ketchup -- Stevie (ordboy)/ Jesper (sjostromjesper) / Albin (albinkj91) / Philip (philipnorvik)
+5. Johan Johansson (johanone)
+6. 
 7.
 8.
 
